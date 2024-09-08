@@ -1,3 +1,3 @@
 [codeforce](https://codeforces.com/)
 
-[leetcode](https://huxulm.github.io/lc-rating/)
+[huxulm](https://huxulm.github.io/lc-rating/)
